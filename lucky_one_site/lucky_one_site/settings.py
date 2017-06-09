@@ -25,7 +25,8 @@ SECRET_KEY = '*+#@7h^wym1v#b!*=&9^!f0*99r!uxcc))cz^+h6#)4#h*uhy0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['danusword.pythonanywhere.com']
+ALLOWED_HOSTS = ['danusword.pythonanywhere.com',
+                 '127.0.0.1']
 
 
 # Application definition
